@@ -1,0 +1,25 @@
+.logo {
+    height: 60px;
+  }
+  
+  .profile-section {
+    font-family: Arial, sans-serif;
+  }
+  
+  .card h3 {
+    font-size: 1.5rem;
+    color: #524a42;
+  }
+  
+  .card {
+    border: 1px solid #e6ddd1;
+    background-color: #ffffff;
+  }
+  
+  #report-content p {
+    margin: 5px 0;
+    font-size: 1rem;
+    color: #444;
+  }
+  
+  

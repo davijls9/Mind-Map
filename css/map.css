@@ -1,0 +1,13 @@
+/* map.css */
+#map {
+    width: 100%;
+    height: 80vh;
+}
+
+header img.logo {
+    height: 60px;
+}
+
+.container {
+    margin-top: 20px;
+}

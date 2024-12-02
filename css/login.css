@@ -1,0 +1,76 @@
+/* Reset padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Configuração do corpo */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f5e6c8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Barra superior preta */
+  .top-bar {
+    background-color: black;
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    top: 0;
+  }
+  
+  /* Container principal */
+  .container {
+    margin-top: 20%;
+    text-align: center;
+    width: 90%;
+  }
+  
+  /* Estilo do logo */
+  .logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  /* Botões */
+  .btn {
+    display: block;
+    width: 80%;
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 15px;
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #e0d6c4;
+  }
+  
+  /* Link para "Voltar" */
+  .back {
+    margin-top: 20px;
+    font-size: 14px;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .back:hover {
+    text-decoration: underline;
+  }
+  

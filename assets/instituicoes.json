@@ -1,0 +1,354 @@
+{
+    "locais": [
+      {
+        "id": 1,
+        "descricao": "CVV - Centro de Valorização da Vida",
+        "endereco": "Rua Desembargador Barcelos, 1286, Bairro Nova Suíça",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "188",
+        "latlong": [
+          -43.9821584,
+          -19.9338493
+        ],
+        "url": "https://www.cvv.org.br",
+        "cor": "blue"
+      },
+      {
+        "id": 2,
+        "descricao": "CERSAM Norte",
+        "endereco": "Rua Parnaíba, 568 - Bairro Minaslândia",
+        "favorito": false,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3246-9562 / 3246-9563",
+        "latlong": [
+          -43.9352046,
+          -19.8509247
+        ],
+        "url": "https://prefeitura.pbh.gov.br/saude/atencao-a-saude/urgencia-e-emergencia",
+        "cor": "green"
+      },
+      {
+        "id": 3,
+        "descricao": "CERSAM Pampulha",
+        "endereco": "Rua do Mel, 77 – Bairro Santa Branca",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3277-7918 / 3277-7934",
+        "latlong": [
+          -43.9759796,
+          -19.8422934
+        ],
+        "url": "https://prefeitura.pbh.gov.br/saude/atencao-a-saude/urgencia-e-emergencia",
+        "cor": "green"
+      },
+      {
+        "id": 4,
+        "descricao": "CERSAM Oeste",
+        "endereco": "Rua Oscar Trompowisk, 1325 - Bairro Grajaú",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3277-6488 / 3277-9601",
+        "latlong": [
+          -43.9652379,
+          -19.9423897
+        ],
+        "url": "https://prefeitura.pbh.gov.br/saude/atencao-a-saude/urgencia-e-emergencia",
+        "cor": "green"
+      },
+      {
+        "id": 5,
+        "descricao": "CERSAM Noroeste",
+        "endereco": "Rua Camarugi, 10 - Bairro Padre Eustáquio",
+        "favorito": false,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3277-7220 / 3277-7229",
+        "latlong": [
+          -43.9722839,
+          -19.9150216
+        ],
+        "url": "https://prefeitura.pbh.gov.br/saude/atencao-a-saude/urgencia-e-emergencia",
+        "cor": "green"
+      },
+      {
+        "id": 6,
+        "descricao": "CERSAM Venda Nova",
+        "endereco": "Rua dos Canoeiros, 320 - Bairro Santa Mônica",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3277-5432 / 3277-5434",
+        "latlong": [
+          -43.9793062,
+          -19.8289781
+        ],
+        "url": "https://prefeitura.pbh.gov.br/saude/atencao-a-saude/urgencia-e-emergencia",
+        "cor": "green"
+      },
+      {
+        "id": 7,
+        "descricao": "CERSAM Nordeste",
+        "endereco": "Praça 13 de maio, s/n – Bairro Nova Floresta",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3277-6067 / 3277-6065",
+        "latlong": [
+          -43.9331198,
+          -19.8950935
+        ],
+        "url": "https://prefeitura.pbh.gov.br/saude/atencao-a-saude/urgencia-e-emergencia",
+        "cor": "green"
+      },
+      {
+        "id": 8,
+        "descricao": "CERSAM Leste",
+        "endereco": "Rua Perite, 150 – Bairro Santa Tereza",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3277-5756 / 3277-5743",
+        "latlong": [
+          -43.9140929,
+          -19.9120391
+        ],
+        "url": "https://prefeitura.pbh.gov.br/saude/atencao-a-saude/urgencia-e-emergencia",
+        "cor": "green"
+      },
+      {
+        "id": 9,
+        "descricao": "CERSAM Barreiro",
+        "endereco": "Rua Ribeiro da Luz, 29 – Bairro Barreiro",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3277-1530 / 3277-5908",
+        "latlong": [
+          -44.0168255,
+          -19.9733867
+        ],
+        "url": "https://prefeitura.pbh.gov.br/saude/atencao-a-saude/urgencia-e-emergencia",
+        "cor": "green"
+      },
+      {
+        "id": 10,
+        "descricao": "Hospital Espírita André Luiz",
+        "endereco": "Rua Úrsula Paulino,  7, Salgado Filho",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3115-2600",
+        "latlong": [
+          -43.9825846,
+          -19.9501036
+        ],
+        "url": "https://www.heal.org.br",
+        "cor": "blue"
+      },
+      {
+        "id": 11,
+        "descricao": "Instituto Raul Soares",
+        "endereco": "Avenida do Contorno, 3017, Bairro Santa Efigênia",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3239-9901",
+        "latlong": [
+          -43.9218071,
+          -19.922367
+        ],
+        "url": "https://www.fhemig.mg.gov.br/atendimento/unidades-assistenciais-de-saude-mental/instituto-raul-soares",
+        "cor": "blue"
+      },
+      {
+        "id": 12,
+        "descricao": "Cersam Betim Central",
+        "endereco": "Rua Horizonte Belo, 170, no bairro Filadélfia",
+        "favorito": true,
+        "cidade": "Betim",
+        "telefone": "(31) 3511-8533  - Plantão: 3594-4780 ",
+        "latlong": [
+          -44.192872,
+          -19.9689097
+        ],
+        "url": "https://www.betim.mg.gov.br/portal/secretarias-paginas/95/atendimento-especializado/",
+        "cor": "green"
+      },
+      {
+        "id": 13,
+        "descricao": "Cersam Citrolândia",
+        "endereco": "Rua Professor Antônio Aleixo, 4, bairro Citrolândia",
+        "favorito": true,
+        "cidade": "Betim",
+        "telefone": "(31) 3596-4611",
+        "latlong": [
+          -44.2222694,
+          -20.0393357
+        ],
+        "url": "https://www.betim.mg.gov.br/portal/secretarias-paginas/95/atendimento-especializado/",
+        "cor": "green"
+      },
+      {
+        "id": 14,
+        "descricao": "Cersam Teresópolis",
+        "endereco": "Rua Braúnas, 50 C,  bairro Jardim Teresópolis",
+        "favorito": true,
+        "cidade": "Betim",
+        "telefone": "(31) 3591-1408 - Plantão: 3597-7427",
+        "latlong": [
+          -44.1138482,
+          -19.9493229
+        ],
+        "url": "https://www.betim.mg.gov.br/portal/secretarias-paginas/95/atendimento-especializado/",
+        "cor": "green"
+      },
+      {
+        "id": 15,
+        "descricao": "Centro de Referência em Saúde Mental Infantil (Cersami)",
+        "endereco": "Rua Araguaia, 276, Bairro Brasiléia",
+        "favorito": true,
+        "cidade": "Betim",
+        "telefone": "(31) 3511-8540 / 3595-8545",
+        "latlong": [
+          -44.2108127,
+          -19.9722217
+        ],
+        "url": "https://www.betim.mg.gov.br/portal/secretarias-paginas/95/atendimento-especializado/",
+        "cor": "green"
+      },
+      {
+        "id": 16,
+        "descricao": "Centro de Atenção Psicossocial Álcool e outras Drogas (CAPS AD)",
+        "endereco": "Rua do Rosário, 1457, Bairro Angola",
+        "favorito": true,
+        "cidade": "Betim",
+        "telefone": "(31) 3531-6488 - Plantão: 99819-0081",
+        "latlong": [
+          -44.2030328,
+          -19.9529901
+        ],
+        "url": "https://www.betim.mg.gov.br/portal/secretarias-paginas/95/atendimento-especializado/",
+        "cor": "green"
+      },
+      {
+        "id": 17,
+        "descricao": "CAPS Adulto",
+        "endereco": "Rua Joaquim Camargo, 47B, Centro",
+        "favorito": true,
+        "cidade": "Contagem",
+        "telefone": "(31) 3362-2278",
+        "latlong": [
+          -44.0848401,
+          -19.9107324
+        ],
+        "url": " https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+        "cor": "green"
+      },
+      {
+        "id": 18,
+        "descricao": "CAPS III Adulto",
+        "endereco": "Rua Me. Mar. Fontanaresa, n° 106 - Eldorado",
+        "favorito": true,
+        "cidade": "Contagem",
+        "telefone": "(31) 3355-1558",
+        "latlong": [
+          -44.0463347,
+          -19.9417404
+        ],
+        "url": " https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+        "cor": "green"
+      },
+      {
+        "id": 19,
+        "descricao": "Centro de Atenção Psicossocial/ CAPS II",
+        "endereco": "Rua Augusto Magalhães, 101 Centro",
+        "favorito": true,
+        "cidade": "Nova Lima",
+        "telefone": "(31) 3180-6096",
+        "latlong": [
+          -43.8523304,
+          -19.9815891
+        ],
+        "url": "https://novalima.mg.gov.br/cidadao/portal-servicos/servico/servicos_de_saude_mental",
+        "cor": "green"
+      },
+      {
+        "id": 20,
+        "descricao": "Centro de Atenção Psicossocial álcool e outras drogas",
+        "endereco": "Rua: Abrão Lincoln, 46, Vila São José",
+        "favorito": true,
+        "cidade": "Nova Lima",
+        "telefone": "(31) 3180-6095",
+        "latlong": [
+          -43.871719,
+          -19.9862941
+        ],
+        "url": "https://novalima.mg.gov.br/cidadao/portal-servicos/servico/servicos_de_saude_mental",
+        "cor": "green"
+      },
+      {
+        "id": 21,
+        "descricao": "Argos Psicologia",
+        "endereco": "Av. Vilarinho, 1601 - Venda Nova",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3455-9959",
+        "latlong": [
+          -43.959196,
+          -19.813894
+        ],
+        "url": "https://www.argospsi.com.br",
+        "cor": "red"
+      },
+      {
+        "id": 22,
+        "descricao": "Espaço Ser Humano",
+        "endereco": "Av. Portugal, 1.900 - sala 307, Santa Amélia",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 99776-7388",
+        "latlong": [
+          -43.9831027,
+          -19.8475767
+        ],
+        "url": "https://espacoserhumano.com.br",
+        "cor": "red"
+      },
+      {
+        "id": 23,
+        "descricao": "Clínica Borboleta Amarela",
+        "endereco": "Av. do Contorno, 9921 - salas 608/609 - Prado",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 98821-7291",
+        "latlong": [
+          -43.9601305,
+          -19.9216618
+        ],
+        "url": "https://clinicaborboletamarela.com.br",
+        "cor": "red"
+      },
+      {
+        "id": 24,
+        "descricao": "Clínica Mangabeiras",
+        "endereco": "Av. Bandeirantes, 1929 - Mangabeiras",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3225-4622",
+        "latlong": [
+          -43.9242358,
+          -19.9486951
+        ],
+        "url": "https://clinicamangabeiras.com.br",
+        "cor": "red"
+      },
+      {
+        "id": 25,
+        "descricao": "Núcleo Sensar",
+        "endereco": "Rua Paraíba, 1352, Sala 301, Savassi",
+        "favorito": true,
+        "cidade": "Belo Horizonte",
+        "telefone": "(31) 3656-7383",
+        "latlong": [
+          -43.9370408,
+          -19.9386249
+        ],
+        "url": "https://nucleosensar.com.br",
+        "cor": "red"
+      }
+    ]
+  }

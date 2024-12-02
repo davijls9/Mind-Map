@@ -1,0 +1,35 @@
+body {
+  background-color: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border: 2px solid #e6ddd1;
+  background-color: #ffffff;
+}
+
+h2, h3 {
+  font-weight: bold;
+  color: #524a42;
+}
+
+.quiz-button {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+
+.quiz-button.selected {
+  background-color: #524a42;
+  color: #fff;
+}
+
+textarea {
+  resize: none;
+  margin-top: 10px;
+}
+
+button {
+  font-size: 1rem;
+}
